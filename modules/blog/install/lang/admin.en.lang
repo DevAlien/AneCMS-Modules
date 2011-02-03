@@ -1,0 +1,11 @@
+//blog
+$lang['blog_description'] = 'Thanks to this module you will have a Blog in your site';
+$lang['blog_view'] = 'Blog: View';
+$lang['blog_new'] = 'Blog: New';
+$lang['blog']   = 'Blog';
+$lang['blog_newarticle']   = 'New Article';
+$lang['blog_title']   = 'Title';
+$lang['blog_articles']   = 'Blog Articles';
+$lang['blog_setcategories'] = 'You can set the categories';
+$lang['blog_categories'] = 'Categories';
+$lang['blog_catseparator'] = 'You must use a , (coma) between one categorie and another one';

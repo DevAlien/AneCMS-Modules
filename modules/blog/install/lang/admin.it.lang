@@ -1,0 +1,11 @@
+//blog
+$lang['blog_description'] = 'Grazie a questo modulo potrai usufruire di un blog.';
+$lang['blog_view'] = 'Blog: Visualizza';
+$lang['blog_new'] = 'Blog: Nuovo';
+$lang['blog']   = 'Blog';
+$lang['blog_newarticle']   = 'Nuovo Articolo';
+$lang['blog_title']   = 'Titolo';
+$lang['blog_articles']   = 'Articoli del blog';
+$lang['blog_setcategories'] = 'Puoi impostare delle categorie';
+$lang['blog_categories'] = 'Categorie';
+$lang['blog_catseparator'] = 'Devi usare una , (Virgola) tra una categoria e un'altra';

@@ -1,0 +1,10 @@
+# Start Rules Blog
+RewriteRule ^blog$ index.php?mode=blog
+RewriteRule ^rss/blog$ rss.php?module=blog
+RewriteRule ^rss/blog/(.*)$ rss.php?module=blog&cat=$1
+RewriteRule ^blog/delete/(.*)/(.*)$ index.php?mode=blog&d=$1&ida=$2
+RewriteRule ^blog/author/(.*)/(.*)$ index.php?mode=blog&a=$1&an=$2
+RewriteRule ^blog/(.*)/(.*)/c$ index.php?mode=blog&p=$1&t=$2&comment=1
+RewriteRule ^blog/(.*)/(.*)$ index.php?mode=blog&p=$1&t=$2
+RewriteRule ^blog/(.*)$ index.php?mode=blog&cat=$1
+# End Rules Blog

@@ -1,0 +1,4 @@
+# Start Rules Pages
+RewriteRule ^pages$ index.php?mode=pages
+RewriteRule ^pages/(.*)$ index.php?mode=pages&p=$1
+# End Rules Pages

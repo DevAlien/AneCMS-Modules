@@ -1,0 +1,9 @@
+//pages
+$lang['pages_pages'] = 'Pages';
+$lang['pages_view'] = 'Pages: Visualizza';
+$lang['pages_new'] = 'Pages: Nuova';
+$lang['pages_newpage'] = 'Nuova pagina';
+$lang['pages_addlink'] = 'Se vuoi aggiungere un link nel menu a questa pagina';
+$lang['pages_pagename'] = 'Nome Pagina';
+$lang['pages_selectdefault'] = 'Seleziona pagina di default';
+$lang['pages_settedpage'] = 'La pagina è stata imposta, sopra puoi vedere il nome.';

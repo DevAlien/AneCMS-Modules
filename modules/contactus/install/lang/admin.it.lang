@@ -1,0 +1,7 @@
+//blog
+$lang['blog_view'] = 'Blog: Visualizza';
+$lang['blog_new'] = 'Blog: Nuovo';
+$lang['blog']   = 'Blog';
+$lang['blog_newarticle']   = 'Nuovo Articolo';
+$lang['blog_title']   = 'Titolo';
+$lang['blog_articles']   = 'Articoli del Blog';

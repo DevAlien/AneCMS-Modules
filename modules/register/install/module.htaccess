@@ -1,0 +1,4 @@
+# Start Rules Register
+RewriteRule ^register$ index.php?mode=register
+RewriteRule ^register/next(.*)$ index.php?mode=register&next
+# End Rules Register

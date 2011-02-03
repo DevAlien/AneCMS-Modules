@@ -1,0 +1,9 @@
+name=example
+description=English Description
+version=1.0
+datarelease=1256301560
+depends=
+author=example
+email=example@anecms.com
+site=http://example.com
+xmlrpc=no

@@ -1,0 +1,20 @@
+//blog
+$lang['blog_art_more']   = 'Continue...';
+$lang['blog_wirte']      = 'Posted on:';
+$lang['blog_by']       = 'from';
+$lang['blog_comments']   = 'Comments';
+$lang['blog_comment']    = 'Comment';
+$lang['blog_no_comments']  = 'There are no comments';
+$lang['blog_total_comments'] = 'The comments for this article are:';
+$lang['blog_write_from']   = 'Posted by:';
+$lang['blog_wrote'] = 'wrote';
+$lang['blog_personalused'] = 'Your personal information will be used to write the comment';
+$lang['blog_yname'] = 'Your Name (Required)';
+$lang['blog_yemail'] = 'Your Email (will not be published) (Required)';
+$lang['blog_yweb'] = 'Your WebSite';
+$lang['blog_ycomment'] = 'Your Comment (Required)';
+$lang['blog_not_approved_comments'] = 'Comments not approved';
+$lang['blog_not_approved_commentsfta'] = 'Comments not approved for this article';
+$lang['blog_all_comments_approved'] = 'All the comments are approved';
+$lang['blog_leave_reply'] = 'Leave a reply';
+$lang['blog_submit_comment'] = 'Submit Comment';

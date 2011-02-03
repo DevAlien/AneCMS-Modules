@@ -1,0 +1,14 @@
+//blog
+$lang['art_more']		= 'Continue...';
+$lang['wirte']			= 'Posted on:';
+$lang['by']				= 'from';
+$lang['comments']		= 'Comments';
+$lang['comment']		= 'Comment';
+$lang['no_comments']	= 'There are no comments';
+$lang['total_comments'] = 'The comments for this article are:';
+$lang['write_from']		= 'Posted by:';
+$lang['blog_wrote'] = 'wrote';
+$lang['blog_personalused'] = 'Your personal information will be used to write the comment';
+$lang['blog_yname'] = 'Your Name';
+$lang['blog_yemail'] = 'Your Email';
+$lang['blog_ycomment'] = 'Your Comment';

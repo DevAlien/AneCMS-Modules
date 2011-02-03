@@ -1,0 +1,3 @@
+# Start Rules Contactus
+RewriteRule ^contactus$ index.php?mode=contactus
+# End Rules Contactus

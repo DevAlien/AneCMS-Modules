@@ -1,0 +1,21 @@
+//register
+$lang['register']       = 'Registration';
+$lang['re']				= 'Retry';
+$lang['finishreg']      = 'The registration was completed successfully';
+$lang['userexist']      = 'The chosen username is already occupied<br/>';
+$lang['passnotmatch']   = 'Passwords do not match<br/>';
+$lang['emailinvalid']   = 'Inserted E-Mail is not valid<br/>';
+$lang['errordis']       = 'It was an unknown error<br/>';
+$lang['username']	    = 'Username:';
+$lang['ripeti']		    = 'Repeat password:';
+$lang['lingua']		    = 'Language:';
+$lang['scegli']		    = 'Choose language';
+$lang['it']			    = 'Italian';
+$lang['en']			    = 'English';
+$lang['de']			    = 'German';
+$lang['opzionali']	    = 'Optional Field';
+$lang['localita']	    = 'Location:';
+$lang['firma']		    = 'Signature:';
+$lang['welcome']        = 'Welcome';
+$lang['registrati']     = 'Register';
+$lang['rincorso']	    = 'Registration under way';

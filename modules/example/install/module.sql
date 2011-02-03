@@ -1,0 +1,1 @@
+Table Prefix: ##PREFIX##

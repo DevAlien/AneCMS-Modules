@@ -1,0 +1,9 @@
+name=contactus
+description=A page to give the possibility to talk to the staff
+version=1.0
+datarelease=1256301560
+depends=
+author=AneCMS
+email=info@anecms.com
+site=http://anecms.com
+xmlrpc=no
